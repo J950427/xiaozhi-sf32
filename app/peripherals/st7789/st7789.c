@@ -27,7 +27,7 @@
  * @brief  ST7789 Size
  */
 // #define  THE_LCD_PIXEL_WIDTH    ((uint16_t)240)
-// #define  THE_LCD_PIXEL_HEIGHT   ((uint16_t)280)
+// #define  THE_LCD_PIXEL_HEIGHT   ((uint16_t)320)
 
 /**
  * @brief  ST7789 Registers
