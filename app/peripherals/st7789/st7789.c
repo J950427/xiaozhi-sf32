@@ -15,7 +15,7 @@
 #ifdef ROW_OFFSET_PLUS
     #define ROW_OFFSET (ROW_OFFSET_PLUS)
 #else
-    #define ROW_OFFSET (20)
+    #define ROW_OFFSET (-1)
 #endif
 
 /**
@@ -27,7 +27,7 @@
  * @brief  ST7789 Size
  */
 // #define  THE_LCD_PIXEL_WIDTH    ((uint16_t)240)
-// #define  THE_LCD_PIXEL_HEIGHT   ((uint16_t)280)
+// #define  THE_LCD_PIXEL_HEIGHT   ((uint16_t)320)
 
 /**
  * @brief  ST7789 Registers
