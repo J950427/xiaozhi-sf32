@@ -55,7 +55,7 @@ endif
 
 config BLUETOOTH_NAME
     string "Bluetooth device name"
-    default "sifli-pan"
+    default "xiaocui"
     help
         Specify the Bluetooth device name for the application.
 
